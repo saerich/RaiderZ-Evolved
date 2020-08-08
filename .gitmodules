@@ -1,0 +1,3 @@
+[submodule "raiderz-evolved-doc"]
+  path = raiderz-evolved-doc
+  url = ../group/raiderz-evolved-doc.git
