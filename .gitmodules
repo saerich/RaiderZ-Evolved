@@ -1,3 +1,3 @@
 [submodule "raiderz-evolved-doc"]
   path = raiderz-evolved-doc
-  url = ../group/raiderz-evolved-doc.git
+  url = https://gitlab.com/CodeGeniusGuy/raiderz-evolved-doc.git
