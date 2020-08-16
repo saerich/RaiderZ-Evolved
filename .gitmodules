@@ -1,6 +1,6 @@
-[submodule "raiderz-evolved-data"]
+[submodule "raiderz-evolved-gamedata"]
   path = gamedata
-  url = https://gitlab.com/CodeGeniusGuy/raiderz-evolved-data.git
+  url = https://gitlab.com/CodeGeniusGuy/raiderz-evolved-gamedata.git
 [submodule "raiderz-evolved-database"]
   path = database
   url = https://gitlab.com/CodeGeniusGuy/raiderz-evolved-database.git
