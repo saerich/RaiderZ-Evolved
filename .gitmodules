@@ -1,15 +1,15 @@
 [submodule "raiderz-evolved-assets"]
   path = assets
-  url = https://gitlab.com/CodeGeniusGuy/raiderz-evolved-assets.git
+  url = https://github.com/saerich/RaiderZ-Evolved-DevKit
 [submodule "raiderz-evolved-database"]
   path = database
-  url = https://gitlab.com/CodeGeniusGuy/raiderz-evolved-database.git
+  url = https://github.com/saerich/RaiderZ-Evolved-Database
 [submodule "raiderz-evolved-doc"]
   path = doc
-  url = https://gitlab.com/CodeGeniusGuy/raiderz-evolved-doc.git
+  url = https://github.com/saerich/RaiderZ-Evolved-Doc
 [submodule "raiderz-evolved-sdk"]
   path = sdk
-  url = https://gitlab.com/CodeGeniusGuy/raiderz-evolved-sdk.git
+  url = https://github.com/saerich/RaiderZ-Evolved-SDK
 [submodule "raiderz-evolved-source"]
   path = source
-  url = https://gitlab.com/CodeGeniusGuy/raiderz-evolved-source.git
+  url = https://github.com/saerich/RaiderZ-Evolved-Develop
