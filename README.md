@@ -1,6 +1,7 @@
 RaiderZ Evolved Project
 
 Requirements:
+- If you would like to open the not upgraded projects: Visual Studio 2008 with SP1 Update (https://stackoverflow.com/questions/17108102/download-and-install-visual-studio-2008)
 - Visual Studio 2019 v16.10.1 (https://visualstudio.microsoft.com/downloads/)
   - With the following workloads selected:
   - Desktop development with C++
