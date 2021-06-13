@@ -1,14 +1,14 @@
 RaiderZ Evolved Project
 
 Requirements:
-- Visual Studio 2019 v16.10.1
+- Visual Studio 2019 v16.10.1 (https://visualstudio.microsoft.com/downloads/)
   - With the following workloads selected:
   - Desktop development with C++
   - .NET desktop development
   - Game development with C++
 - DirectX 9 SDK (https://www.microsoft.com/en-gb/download/details.aspx?id=6812)
 - Microsoft SQL Server 2019 (https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-- Git
+- Git (https://git-scm.com/)
 
 Cloning:
 1. Using git (either in visual studio, command line, git tortoise, or something else).
